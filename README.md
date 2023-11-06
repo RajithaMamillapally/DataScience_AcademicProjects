@@ -6,4 +6,4 @@ This Repository consists of Projects done by me for Academic purposes.Projects a
 ## Contents
 ### Machine Learning:
 #### Supervised Learning:
-[Customer Churn Prediction]["https://github.com/RajithaMamillapally/DataScience_AcademicProjects/blob/05e8e54f93a1987a6c2a67d08d6b497cfd9a5591/Capsone_project/Customer%20Churn%20prediction.ipynb"]:A predictive model to identify and reduce customer churn, contributing to improved customer retention strategies
+[Customer Churn Prediction][]:A predictive model to identify and reduce customer churn, contributing to improved customer retention strategies
