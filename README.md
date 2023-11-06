@@ -6,4 +6,4 @@ This Repository consists of Projects done by me for Academic purposes.Projects a
 ## Contents
 ### Machine Learning:
 #### Supervised Learning:
-[Customer Churn Prediction][Capsone_project]:A predictive model to identify and reduce customer churn, contributing to improved customer retention strategies
+[Customer Churn Prediction]["Capsone_project"]:A predictive model to identify and reduce customer churn, contributing to improved customer retention strategies
