@@ -1,8 +1,7 @@
 # DataScience_AcademicProjects
 This Repository consists of Projects done by me for Academic purposes.Projects are presented in the form of Google colab notebooks<br>
 ## Instructions for running Python Notebooks Locally
-1.Install dependencies using requirements.txt.<br>
-2.Run notebooks as usual by using a jupyter notebook server, Vscode etc.<br>
+Run notebooks as usual by using a jupyter notebook server, Vscode etc.<br>
 ## Contents
 ### Machine Learning:
 #### Supervised Learning:
